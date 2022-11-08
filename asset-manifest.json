@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/esgv2dashboard/static/js/main.b3e7f2b6.chunk.js",
-    "runtime-main.js": "/esgv2dashboard/static/js/runtime-main.4248f7eb.js",
+    "main.js": "/esgv2dashboard/static/js/main.a6066a98.chunk.js",
+    "runtime-main.js": "/esgv2dashboard/static/js/runtime-main.3731b7cc.js",
     "static/css/2.48d1d2f1.chunk.css": "/esgv2dashboard/static/css/2.48d1d2f1.chunk.css",
-    "static/js/2.fbe877c9.chunk.js": "/esgv2dashboard/static/js/2.fbe877c9.chunk.js",
-    "static/js/3.b8448a65.chunk.js": "/esgv2dashboard/static/js/3.b8448a65.chunk.js",
-    "static/js/4.7984da67.chunk.js": "/esgv2dashboard/static/js/4.7984da67.chunk.js",
+    "static/js/2.c275386b.chunk.js": "/esgv2dashboard/static/js/2.c275386b.chunk.js",
+    "static/js/3.638cd2ad.chunk.js": "/esgv2dashboard/static/js/3.638cd2ad.chunk.js",
+    "static/js/4.8c263288.chunk.js": "/esgv2dashboard/static/js/4.8c263288.chunk.js",
     "index.html": "/esgv2dashboard/index.html",
-    "static/js/2.fbe877c9.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/2.fbe877c9.chunk.js.LICENSE.txt",
-    "static/js/3.b8448a65.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/3.b8448a65.chunk.js.LICENSE.txt",
-    "static/js/4.7984da67.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/4.7984da67.chunk.js.LICENSE.txt",
+    "static/js/2.c275386b.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/2.c275386b.chunk.js.LICENSE.txt",
+    "static/js/3.638cd2ad.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/3.638cd2ad.chunk.js.LICENSE.txt",
+    "static/js/4.8c263288.chunk.js.LICENSE.txt": "/esgv2dashboard/static/js/4.8c263288.chunk.js.LICENSE.txt",
     "static/media/index.css": "/esgv2dashboard/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.4248f7eb.js",
+    "static/js/runtime-main.3731b7cc.js",
     "static/css/2.48d1d2f1.chunk.css",
-    "static/js/2.fbe877c9.chunk.js",
-    "static/js/main.b3e7f2b6.chunk.js"
+    "static/js/2.c275386b.chunk.js",
+    "static/js/main.a6066a98.chunk.js"
   ]
 }
