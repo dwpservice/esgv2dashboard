@@ -1,0 +1,200 @@
+
+
+body {
+    margin: 0;
+    background-color: #babcbf;
+   
+    font-family: 'Inter', sans-serif;
+}
+
+.flex-container {
+  /*  height: 100vh; */
+    
+    display:flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    flex-direction:row;
+    flex-wrap:wrap;   
+    align-items:center ; 
+    height: 100%;
+    row-gap: 10px;
+    column-gap: 5px;
+    
+    background-color: #babcbf;
+  }
+.boy {
+     
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+   
+    padding: 15px;
+    font-size: 13px;
+    width:fit-content;
+    
+    
+    
+    
+    
+   
+}  
+.logoleedcontainer {
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 15px;
+    font-size: 13px;
+    width:45%;
+    display: flex;
+    justify-content:baseline;
+    align-items:flex-start;
+    flex-direction: row;
+    flex-wrap:nowrap;  
+   
+    
+    
+  }
+
+.boy1 {
+     
+    padding: 10px;
+    font-size: 14px;
+    color: red;
+    width:auto;
+   
+}
+.MySubmitButton {
+   
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.dwp {
+    font-family: 'Arial', Courier, monospace;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 5px;
+}
+
+.appbar {
+    background-color: black !important;
+}
+
+.Mylist{
+    list-style-type:none;    
+}
+
+.MyMsgFrame {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width:auto;
+    
+    background-color: white !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked.myGreen {
+    color: #096418 !important;
+}
+
+.myCenter {
+    text-align: center;
+}
+
+.myButton {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width: 120px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 25px;
+}
+
+.myButton1 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    width:200px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 25px;
+}
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters {
+    padding-left: 4px;
+}
+
+[id='score-LEED for Neighborhood Development Location'],
+[id='score-Sensible Land Protection'],
+[id='score-High Priority Site and Equitable Development'],
+[id='score-Surrounding Density and Diverse Uses'],
+[id='score-Access to Quality Transit'],
+[id='score-Bicycle Facilities'],
+[id='score-Reduce Parking Footprint'],
+[id='score-Electric Vehicles'],
+[id='score-Prerequisite Construction Activity Pollution Prevention'],
+[id='score-Site Assessment'],
+[id='score-Protect or Restore Habitat'],
+[id='score-Open Space'],
+[id='score-Rainwater Management'],
+[id='score-Heat Island Reduction'],
+[id='score-Light Pollution Reduction'],
+[id='score-Prerequisite Outdoor Water Use Reduction'],
+[id='score-Prerequisite Indoor Water Use Reduction'],
+[id='score-Prerequisite Building-Level Water Metering'],
+[id='score-Outdoor Water Use Reduction'],
+[id='score-Indoor Outdoor Water Use Reduction'],
+[id='score-Optimize Process Water Use'],
+[id='score-Water Metering'],
+[id='score-Prerequisite Fundamental Commissioning and Verification'],
+[id='score-Prerequisite Minimum Energy Performance'],
+[id='score-Prerequisite Building-Level Energy Metering'],
+[id='score-Prerequisite Fundamental Refrigerant Management'],
+[id='score-Enhanced Commissioning'],
+[id='score-Optimize Energy Performance'],
+[id='score-Advanced Energy Metering'],
+[id='score-Grid Harmonization'],
+[id='score-Renewable Energy'],
+[id='score-Enhanced Refrigerant Management'],
+[id='score-Prerequisite Storage and Collection of Recyclables'],
+[id='score-Building Life-Cycle Impact Reduction'],
+[id='score-Environmental Product Declarations'],
+[id='score-Sourcing of Raw Materials'],
+[id='score-Material Ingredients'],
+[id='score-Construction and Demolition Waste Management'],
+[id='score-Prerequisite Minimum Indoor Air Quality Performance'],
+[id='score-Prerequisite Environmental Tobacco Smoke Control'],
+[id='score-Enhanced Indoor Air Quality Strategies'],
+[id='score-Low-Emitting Materials'],
+[id='score-Construction Indoor Air Quality Management Plan'],
+[id='score-Indoor Air Quality Assessment'],
+[id='score-Thermal Comfort'],
+[id='score-Interior Lighting'],
+[id='score-Daylight'],
+[id='score-Quality Views'],
+[id='score-Acoustic Performance'],
+[id='score-Innovation'],
+[id='score-LEED Aced Professional'],
+[id='score-Regional Priority: Specific -1'],
+[id='score-Regional Priority: Specific -2'],
+[id='score-Regional Priority: Specific -3'],
+[id='score-Regional Priority: Specific -4'] {
+    text-align: center;
+}
+
+.MuiFormControlLabel-root.MuiFormControlLabel-labelPlacementTop {
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+.labelcontainer {
+    height: 10vh;   
+    width: 699px; 
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    flex-direction: column;
+    flex-wrap:nowrap;  
+    background-color: white;
+    
+  }
+  
